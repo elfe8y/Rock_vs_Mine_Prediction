@@ -1,7 +1,7 @@
 # Rock_vs_Mine_Prediction
 The focus of this project will be the Sonar Mines vs Rocks dataset. The problem is to predict mine or rock objects from sonar return data. 
 
-#Description
+<h1>Description</h1>
 Sonar data in a csv file is taken for training and testing purpose. Data preprocessing is done on the available sonar data which is suitable for training the model. After Data preprocessing, a Logistic regression model is built. The dataset is split into testing and training sets. The training data is used to train the model then the new data/ testing data is given to the trained logistic regression model for prediction.
 
 #Model
